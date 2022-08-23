@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* first section */
 .section-heading{
     margin: 2px 2px 10px 5px;
     background-image: url(images/donation13.jpg);
@@ -33,6 +34,8 @@ body{
     border-radius: 10px;
 }
 
+/* end of first section */
+/* second -section */
 .section-2{
     margin-top: 100px;
 }
@@ -86,6 +89,8 @@ body{
     border-radius: 5px;
     color: #fff;
 }
+
+/* end of second-section */
 
 .section-3{
     margin-top: 100px;
